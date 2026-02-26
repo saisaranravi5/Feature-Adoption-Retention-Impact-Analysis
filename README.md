@@ -79,6 +79,7 @@ view → click → use → complete
 Feature Try Rate (View → Click Conversion): ~28% (7-day window)
 
 A large proportion of users drop before interacting with a feature after viewing it.
+<img width="1982" height="1112" alt="image" src="https://github.com/user-attachments/assets/179e9b74-2b63-4f8d-aa56-f4c488f5534f" />
 <img width="1984" height="1116" alt="image" src="https://github.com/user-attachments/assets/ed826f80-a129-49de-8669-3634061de452" />
 <img width="1976" height="1106" alt="image" src="https://github.com/user-attachments/assets/54f9c690-d840-4fb2-ab40-390896a2d965" />
 

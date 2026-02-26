@@ -50,7 +50,7 @@ Each KPI was mapped directly to a business question to ensure the analysis answe
 🔹 Engagement Baseline (DAU / WAU / MAU)
 
 Measured overall feature interaction activity to establish engagement stability and validate dataset consistency.
-<img width="1982" height="1110" alt="image" src="https://github.com/user-attachments/assets/e6d88cce-2dd1-4581-89b4-b8a5575f7701" />
+<img width="1012" height="900" alt="image" src="https://github.com/user-attachments/assets/e6d88cce-2dd1-4581-89b4-b8a5575f7701" />
 <img width="1986" height="1120" alt="image" src="https://github.com/user-attachments/assets/9a8b3b48-7790-449e-8df5-f623c772fb53" />
 <img width="1972" height="1110" alt="image" src="https://github.com/user-attachments/assets/5e1a80b0-7d6e-4b5f-af1b-6c2741ae844a" />
 

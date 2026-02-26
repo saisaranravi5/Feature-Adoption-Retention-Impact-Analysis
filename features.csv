@@ -1,0 +1,6 @@
+feature_id,feature_name,category
+F1,Search,core
+F2,Notifications,core
+F3,Profile,optional
+F4,Recommendations,advanced
+F5,Dark Mode,optional

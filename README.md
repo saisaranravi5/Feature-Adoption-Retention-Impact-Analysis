@@ -105,10 +105,10 @@ Only ~28% of users who viewed a feature proceeded to click within 7 days.
 
 This suggests that visibility alone does not drive interaction.
 
-What this likely means:
+**What this likely means:**
 Users may notice features but may not immediately understand their value or next step.
 
-Recommendation:
+**Recommendation:**
 Make the first interaction clearer and easier. For example:
 
 Use clearer action prompts (“Try Search Now” instead of generic labels)
@@ -124,10 +124,10 @@ ii.) Insight: Users Drop Between Click and Completion
 
 There is noticeable drop-off between users clicking a feature and completing its workflow.
 
-What this likely means:
+**What this likely means:**
 Users may begin interacting but encounter friction, complexity, or unclear steps.
 
-Recommendation:
+**Recommendation:**
 Simplify the initial feature experience:
 
 Reduce required steps for first completion
@@ -143,13 +143,13 @@ iii.) Insight: Feature Engagement Strongly Correlates with Retention
 
 Users who interact with features retain 2–3x higher than users who do not.
 
-Interpretation:
+**Interpretation:**
 Feature interaction appears to be a strong behavioral signal of product value realization.
 
-Decision:
+**Decision:**
 First feature interaction should be treated as an activation milestone.
 
-Recommendation:
+**Recommendation:**
 Encourage early feature usage within the first few sessions through:
 
 Onboarding nudges

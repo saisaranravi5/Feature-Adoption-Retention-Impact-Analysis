@@ -50,24 +50,20 @@ Each KPI was mapped directly to a business question to ensure the analysis answe
 🔹 Engagement Baseline (DAU / WAU / MAU)
 
 Measured overall feature interaction activity to establish engagement stability and validate dataset consistency.
-<img width="1012" height="900" alt="image" src="https://github.com/user-attachments/assets/e6d88cce-2dd1-4581-89b4-b8a5575f7701" />
-<img width="1986" height="1120" alt="image" src="https://github.com/user-attachments/assets/9a8b3b48-7790-449e-8df5-f623c772fb53" />
-<img width="1972" height="1110" alt="image" src="https://github.com/user-attachments/assets/5e1a80b0-7d6e-4b5f-af1b-6c2741ae844a" />
+
 
 🔹 Feature Exposure
 
 Measured unique users triggering feature_viewed to evaluate which features users are seeing.
-<img width="1980" height="1118" alt="image" src="https://github.com/user-attachments/assets/c9c0e162-f562-422c-972a-29515143dd96" />
+
 
 🔹 Feature Adoption
 
 Analyzed unique users performing feature_used to determine which features users actively engage with.
-<img width="1980" height="1116" alt="image" src="https://github.com/user-attachments/assets/e531fef3-f730-4fa5-9b6c-ae1c93796124" />
 
 🔹 Engagement Depth
 
 Calculated average usage frequency per user to measure repeated interaction.
-<img width="1972" height="1114" alt="image" src="https://github.com/user-attachments/assets/62ecbde3-5906-4601-9ec3-c5999dc562af" />
 
 
 🔹 Feature Funnel
@@ -79,9 +75,7 @@ view → click → use → complete
 Feature Try Rate (View → Click Conversion): ~28% (7-day window)
 
 A large proportion of users drop before interacting with a feature after viewing it.
-<img width="1982" height="1112" alt="image" src="https://github.com/user-attachments/assets/179e9b74-2b63-4f8d-aa56-f4c488f5534f" />
-<img width="1984" height="1116" alt="image" src="https://github.com/user-attachments/assets/ed826f80-a129-49de-8669-3634061de452" />
-<img width="1976" height="1106" alt="image" src="https://github.com/user-attachments/assets/54f9c690-d840-4fb2-ab40-390896a2d965" />
+
 
 🔹 Retention Impact (Core Insight)
 
@@ -94,7 +88,6 @@ Non-Feature Users
 Finding:
 Feature-engaged users retained at 2–3x higher rates (Day 1–Day 30) compared to non-engaged users.
 This suggests that early feature interaction strongly correlates with long-term engagement.
-<img width="1984" height="1112" alt="image" src="https://github.com/user-attachments/assets/ea8462e6-5b87-43c2-9ca9-ee6407ce0e82" />
 
 
 **6.) Insights → Decisions → Recommendations**
